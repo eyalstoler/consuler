@@ -1,0 +1,6 @@
+host: http://consul.kenshoo-lab.com
+download:
+  keys: [eyals-test]
+  recurse: true
+upload:
+  keys: [eyals-test2]
